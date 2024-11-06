@@ -16,9 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 
-![Screenshot 1](screenshots/Image 1.jpg)
+![Screenshot 1](screenshots/Image1.jpg)
 
 ![Screenshot 2](screenshots/Image2.jpg)
 
-![Screenshot 3](screenshots/Image 3.jpg)
+![Screenshot 3](screenshots/Image3.jpg)
 
