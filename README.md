@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Screenshot 2](screenshots/Image2.jpg)
 
-![Screenshot 3](screenshots/ss3.jpg)
+![Screenshot 3](screenshots/ss2.jpg)
 
