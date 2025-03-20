@@ -1,6 +1,5 @@
 # 🚀 AptTraq
 
-![AptTraq Banner](https://via.placeholder.com/1200x400?text=AptTraq+-+Smart+Financial+Tracker)
 
 ## 📌 Overview
 AptTraq is a **powerful financial tracking app** designed to help users manage apartment-related expenses effortlessly. With **expense tracking, automated reminders, and budget planning**, AptTraq ensures users stay on top of their finances with ease.
@@ -55,13 +54,8 @@ We welcome contributions to improve AptTraq! Follow these steps:
 
 ---
 
-## 📜 License
-AptTraq is licensed under the **MIT License**. See the LICENSE file for more details.
 
----
 
-## 📬 Contact
-For inquiries, feature requests, or support, feel free to reach out at **[your email/contact link]**.
 
 💙 *Star the repo if you like AptTraq!* ⭐
 
